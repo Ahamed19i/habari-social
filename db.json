@@ -1,0 +1,31 @@
+{
+  "utilisateurs": [
+    {
+      "id": "5c8c",
+      "nomUtilisateur": "momo1",
+      "mailUtilisateur": "ahm1255@gmail.com",
+      "motDePasse": "1234567",
+      "motDePasseConfirmation": "1234567"
+    }
+  ],
+  "publications": [
+    {
+      "id": "b978",
+      "textePublication": "hgfdxxfcgvhbjklmkjohgfhjk",
+      "imagePublication": "https://img.freepik.com/free-photo/college-students-different-ethnicities-cramming_23-2149891272.jpg?t=st=1723762592~exp=1723766192~hmac=f5f36a19dbbb787bb9b140747af29eb03dd9b8906b05fe25924da05d37c0ce5b&w=740",
+      "datePublication": "2024-08-15T23:00:24.396Z",
+      "likePublication": 0,
+      "idUtilisateur": "5c8c",
+      "auteur": "momo1"
+    },
+    {
+      "id": "b24b",
+      "textePublication": "ftugvyhujiokpjiugfdcftgyhujik",
+      "imagePublication": "drfctvgybhujikoljhgfchjk",
+      "datePublication": "2024-08-15T23:09:35.473Z",
+      "likePublication": 0,
+      "idUtilisateur": "5c8c",
+      "auteur": "momo1"
+    }
+  ]
+}
